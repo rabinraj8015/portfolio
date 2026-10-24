@@ -24,7 +24,7 @@ I am a final-year BCA student at Loyola College of Arts and Science, Mettala, Ta
 
 ## Live Portfolio
 Visit my portfolio website:
-[Open My Portfolio](portfolio-five-iota-endv6moa5l.vercel.app)
+[Open My Portfolio](https://portfolio-five-iota-endv6moa5l.vercel.app/)
 
 ## Contact
 - Email: rabinraj393@gmail.com
